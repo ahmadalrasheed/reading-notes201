@@ -7,7 +7,7 @@
 
 
 ### how peple access the web ?
-***actually by three ways which are:
+actually by three ways which are:
 * Browsers
 * Web Servers
 * Screen readers
@@ -43,5 +43,93 @@
 * `<p> </p>` for writing paragraphs
 
 * `<br>` to break new line
+
+
+
+## extra markup
+
+### comments in HTML
+
+* it by using `<!-- -->` and put what you want to be a comment in the middle
+
+
+### ID Attribute
+
+if you want to give a certain paragraph an id to style it as you want you can use id, below is example how to use id:
+
+
+* `<p id="pullquote">Every time I view the sea</p>` 
+
+
+### Block Elements
+
+
+***Some elements will always appear to start on a new line in the browser window. These are known as block level elements.***
+
+examples of block elements:
+
+* `<h1>`
+
+* `<p>`
+
+* `<ul>`
+
+*  `<li>`
+
+
+### inline elements 
+
+***Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.***
+
+
+Examples of inline elements are:
+
+* `<a>`
+
+* `<b>`
+
+* `<em>`
+
+* `<img>`
+
+
+
+## HTML5 LAYOUT
+
+### navigation 
+
+***The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.it used most of the time to contain links of the page,down is example of nav structure***
+
+
+![navigation](https://image.slidesharecdn.com/introduction-120222192133-phpapp01/95/introduction-to-html5-53-728.jpg?cb=1329975076)
+
+
+### Articles
+
+***The `<article>` element acts as a container for any section of a page that could stand alone and potentially be syndicated.***
+
+
+### Sections
+
+***The `<section>` element groups related content together, and typically each section would have its own heading.and we can put it in the article***
+
+
+
+## Process & Design
+
+***before we start coding and building the website, there is one mandatory step that we must do before coding our website, which is draw the wireframe of the website that we want to design, we can draw it by using online whiteboard so that we can know our goal and start bulding our website step by step without hesitating.***
+
+look at the picture below to see what is a wireframe:
+
+![wireframe](https://cdn.tutsplus.com/cdn-cgi/image/width=630/webdesign/uploads/legacy/tuts/341_wf/wireframes-simple.png)
+
+
+
+for more information about wireframes click on this [link](https://en.wikipedia.org/wiki/Website_wireframe)
+
+
+
+
+
 
 
