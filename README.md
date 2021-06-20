@@ -24,17 +24,7 @@
 
 # ***contact me***
 
-## features about mark down
 
-**markdown have many features like:**
-
-Markdown markup inside HTML blocks
-Elements with id/class attribute
-Fenced code blocks" that span multiple lines of code
-Tables
-Definition lists
-Footnotes
-Abbreviations
 
 [facebook](https://www.facebook.com)
 
