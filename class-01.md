@@ -127,6 +127,26 @@ look at the picture below to see what is a wireframe:
 
 for more information about wireframes click on this [link](https://en.wikipedia.org/wiki/Website_wireframe)
 
+## What is JavaScript?
+
+
+***JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area.***
+
+
+### CREATING A BASIC JAVASCRIPT
+
+JavaScript is written in plain text, just like HTML and CSS, so you do not
+need any new tools to write a script. This example adds a greeting into an
+HTML page. The greeting changes depending on the time of day
+
+
+## where javascript run ?
+
+JAVASCRIPT RUNS WHERE IT IS FOUND IN THE HTML, When the browser comes across a `<script>` element, it stops to
+load the script and then checks to see if it needs to do anything. 
+
+
+
 
 
 
