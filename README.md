@@ -6,7 +6,7 @@
 | page        | link                      |
 | ----------- | -----------               |
 | class-01    | [pagelink1](class-01.md)  |
-| read02      | [pagelink2]()             |
+| read02      | [pagelink2](class-02.md)  |
 | read03      | [pagelink3]()             |
 | read04      | [pagelink4]()             |
 | read05      | [pagelink5]()             |
