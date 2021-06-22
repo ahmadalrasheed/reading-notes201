@@ -8,7 +8,7 @@
 | class-01    | [pagelink1](class-01.md)  |
 | class-02    | [pagelink2](class-02.md)  |
 | class-03    | [pagelink3](class-03.md)  |
-| read04      | [pagelink4]()             |
+| class-04    | [pagelink4](class-04.md)  |
 | read05      | [pagelink5]()             |
 | read06      | [pagelink6]()             |
 | read07      | [pagelink7]()             |
