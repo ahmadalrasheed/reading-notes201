@@ -87,6 +87,7 @@
 ![LAB5](https://s3.amazonaws.com/ckl-website-static/wp-content/uploads/2017/06/image-formats-cover-1280x680.png)
 
 ### Transparency
+![htmlcss](https://www.pngitem.com/pimgs/m/23-237369_html5-and-css3-transparent-background-html-logo-hd.png)
 ***transparency indicates something that is completely invisible.we can use it to make logo and icons transparency to placed on background.***
 
 
@@ -102,7 +103,7 @@
 * Animation :You can upload multiple PNG or JPG images to our animated PNG maker, choose the order, frame duration and transition effect (if you want to), and it will assemble animated PNG from these images. With this method you can use the full potential of animated PNG and create images with much broader color palette than GIFs
 
 
-![htmlcss](https://www.pngitem.com/pimgs/m/23-237369_html5-and-css3-transparent-background-html-logo-hd.png)
+
  
 
 
