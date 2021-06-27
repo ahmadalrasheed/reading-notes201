@@ -10,10 +10,10 @@
 | class-03    | [pagelink3](class-03.md)  |
 | class-04    | [pagelink4](class-04.md)  |
 | class-05    | [pagelink5](class-05.md)  |
-| read06      | [pagelink6]()             |
+| class-06    | [pagelink6](class-06.md)  |
 | read07      | [pagelink7]()             |
 | read08      | [pagelink8]()             |
-| read09      |  [pagelink9]()            |
+| read09      | [pagelink9]()             |
 | read010     | [pagelink10]()            |
 | read011     | [pagelink11]()            |
 | read012     | [pagelink12]()            |
