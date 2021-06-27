@@ -11,7 +11,7 @@
 | class-04    | [pagelink4](class-04.md)  |
 | class-05    | [pagelink5](class-05.md)  |
 | class-06    | [pagelink6](class-06.md)  |
-| read07      | [pagelink7]()             |
+| class-07    | [pagelink7](class-07.md)  |
 | read08      | [pagelink8]()             |
 | read09      | [pagelink9]()             |
 | read010     | [pagelink10]()            |
