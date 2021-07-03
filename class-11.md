@@ -69,7 +69,7 @@
 
 
 
-***SEO is a huge topic and several books have been written on the subject. The following pages will help you understand the key concepts so you canimprove your website's visibility on search engines.***
+***SEO is a huge topic and several books have been written on the subject. The following pages will help you understand the key concepts so you canimprove your website's visibility on search engines.its a big topic to discuss but we will talk about it breifly***
 
 
 * **The Basics:** 
@@ -97,3 +97,4 @@
 >***Getting other sites to link to you is just as important as on-page techniques. Search engines help determine how to rank your site by looking at the number of other sites that link to yours.***
 
 >***They are particularly interested in sites whose content is related to yours. For example, if you were running a website that sold fish bait, then a link from a hairdresser is not likely to be considered as relevant as one from an angling community,and this is the third technique***
+
