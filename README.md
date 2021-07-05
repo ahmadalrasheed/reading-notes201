@@ -17,7 +17,7 @@
 | class-10    | [pagelink10](class-10.md) |
 | class-11    | [pagelink11](class-11.md) |
 | class-12    | [pagelink12](class-12.md) |
-| read013     | [pagelink13]()            |
+| class-13    | [pagelink13](class-13.md) |
 | read014     | [pagelink14]()            |
 | read015     | [pagelink15]()            |
 
